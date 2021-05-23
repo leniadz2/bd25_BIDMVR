@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[x_ICG_2021] (
+  [COD_EMPRESA] [int] NOT NULL,
+  [COD_CLIENTE] [int] NULL
+)
+ON [PRIMARY]
+GO
